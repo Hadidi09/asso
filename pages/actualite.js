@@ -4,6 +4,7 @@ import { Fade } from "react-awesome-reveal";
 import { page } from "./components/Layout";
 import { Timeline } from 'react-twitter-widgets'
 
+
 const Actualite = () => {
     return (
         <>
